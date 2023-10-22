@@ -11,7 +11,7 @@ html {
 }
 
 h1{
-  font-size: 3rem;
+  font-size: 4rem;
   color: white;
 }
 
@@ -36,7 +36,7 @@ h1{
 }
 
 hr {
-  margin: 20px auto;
+  margin: 70px auto;
   color: #F05F44;
   border: 3px solid #F05F44;
   max-width: 65px; /*maximum width of the hr*/
